@@ -7,11 +7,11 @@
 
 ### Instrucciones
 - Para ejecutar el programa, sigue las siguientes instrucciones: 
-1. Asegúrate de estar en el directorio donde se encuentran los archivos `anotaciones.scala` y `main.scala`. 
+1. Asegúrate de estar en el directorio donde se encuentran los archivos `encapsulacion.scala` y `main.scala`. 
 2. Ejecuta el siguiente comando en la terminal:
 
 ```
-scalac anotaciones.scala main.scala
+scalac encapsulacion.scala main.scala  
 ```
 
 Esto compilará los archivos `.scala` y generará los archivos `.class` correspondientes. 
