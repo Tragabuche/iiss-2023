@@ -1,0 +1,94 @@
+2023.04.24 17:31:41 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\Ivan\Desktop\IISS\iiss-2023' for client Visual Studio Code 1.76.2.
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMACIÓN: Flyway Community Edition 9.16.3 by Redgate
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMACIÓN: See release notes here: https://rd.gt/416ObMi
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMACIÓN: 
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMACIÓN: Database: jdbc:h2:file:C:\Users\Ivan\Desktop\IISS\iiss-2023\.metals\metals (H2 2.1)
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFORMACIÓN: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMACIÓN: Successfully validated 4 migrations (execution time 00:00.031s)
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFORMACIÓN: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMACIÓN: Current version of schema "PUBLIC": << Empty Schema >>
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMACIÓN: Migrating schema "PUBLIC" to version "1 - Create tables"
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMACIÓN: Migrating schema "PUBLIC" to version "2 - Server discovery"
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMACIÓN: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFORMACIÓN: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+abr 24, 2023 5:31:42 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMACIÓN: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.116s)
+2023.04.24 17:31:43 INFO  time: initialize in 1.21s
+abr 24, 2023 5:31:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 1
+2023.04.24 17:31:44 WARN  Build server is not auto-connectable.
+2023.04.24 17:31:44 WARN  no build tool detected in workspace 'C:\Users\Ivan\Desktop\IISS\iiss-2023'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.24 17:31:45 WARN  no build target for: C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\anotaciones.scala
+2023.04.24 17:31:54 INFO  no build target found for C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\anotaciones.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.24 17:31:58 INFO  time: code lens generation in 13s
+2023.04.24 17:31:58 INFO  time: code lens generation in 12s
+2023.04.24 17:32:24 INFO  Shutting down server
+2023.04.24 17:32:24 INFO  shutting down Metals
+2023.04.24 17:32:24 INFO  Exiting server
+2023.04.24 17:32:54 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\Ivan\Desktop\IISS\iiss-2023' for client Visual Studio Code 1.76.2.
+abr 24, 2023 5:32:54 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMACIÓN: Flyway Community Edition 9.16.3 by Redgate
+abr 24, 2023 5:32:54 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMACIÓN: See release notes here: https://rd.gt/416ObMi
+abr 24, 2023 5:32:54 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMACIÓN: 
+abr 24, 2023 5:32:55 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMACIÓN: Database: jdbc:h2:file:C:\Users\Ivan\Desktop\IISS\iiss-2023\.metals\metals (H2 2.1)
+abr 24, 2023 5:32:55 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMACIÓN: Successfully validated 4 migrations (execution time 00:00.048s)
+abr 24, 2023 5:32:55 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMACIÓN: Current version of schema "PUBLIC": 4
+abr 24, 2023 5:32:55 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMACIÓN: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.24 17:32:55 INFO  time: initialize in 1.16s
+2023.04.24 17:32:57 WARN  Build server is not auto-connectable.
+2023.04.24 17:32:57 WARN  no build tool detected in workspace 'C:\Users\Ivan\Desktop\IISS\iiss-2023'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.24 17:32:57 WARN  no build target for: C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\anotaciones.scala
+2023.04.24 17:33:01 INFO  no build target found for C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\anotaciones.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.24 17:33:06 INFO  time: code lens generation in 8.99s
+2023.04.24 17:36:13 WARN  no build target for: C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\anotaciones.scala
+2023.04.24 17:36:15 INFO  Shutting down server
+2023.04.24 17:36:15 INFO  shutting down Metals
+2023.04.24 17:36:15 INFO  Exiting server
+2023.04.24 17:38:29 INFO  Started: Metals version 0.11.12 in workspace 'C:\Users\Ivan\Desktop\IISS\iiss-2023' for client Visual Studio Code 1.77.3.
+abr 24, 2023 5:38:30 PM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFORMACIÓN: Flyway Community Edition 9.16.3 by Redgate
+abr 24, 2023 5:38:30 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMACIÓN: See release notes here: https://rd.gt/416ObMi
+abr 24, 2023 5:38:30 PM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFORMACIÓN: 
+abr 24, 2023 5:38:31 PM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFORMACIÓN: Database: jdbc:h2:file:C:\Users\Ivan\Desktop\IISS\iiss-2023\.metals\metals (H2 2.1)
+abr 24, 2023 5:38:31 PM org.flywaydb.core.internal.command.DbValidate validate
+INFORMACIÓN: Successfully validated 4 migrations (execution time 00:00.058s)
+abr 24, 2023 5:38:31 PM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFORMACIÓN: Current version of schema "PUBLIC": 4
+abr 24, 2023 5:38:31 PM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFORMACIÓN: Schema "PUBLIC" is up to date. No migration necessary.
+2023.04.24 17:38:31 INFO  time: initialize in 1.4s
+2023.04.24 17:38:33 WARN  Build server is not auto-connectable.
+2023.04.24 17:38:33 WARN  no build tool detected in workspace 'C:\Users\Ivan\Desktop\IISS\iiss-2023'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.04.24 17:38:33 WARN  no build target for: C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\anotaciones.scala
+2023.04.24 17:38:37 INFO  no build target found for C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\anotaciones.scala. Using presentation compiler with project's scala-library version: 3.2.2
+2023.04.24 17:38:42 INFO  time: code lens generation in 9.56s
+abr 24, 2023 5:41:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 34
+abr 24, 2023 5:41:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+ADVERTENCIA: Unmatched cancel notification for request id 36
+2023.04.24 17:52:38 WARN  no build target for: C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\anotaciones.scala
+2023.04.24 17:58:00 WARN  no build target for: C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\main.scala
+2023.04.24 17:58:22 WARN  Using indexes to guess the definition of Lista
+2023.04.24 17:58:22 WARN  no build target for: C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\main.scala
+2023.04.24 17:58:28 WARN  no build target for: C:\Users\Ivan\Desktop\IISS\iiss-2023\temas\anotaciones\scala\anotaciones.scala
